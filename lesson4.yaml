@@ -1,0 +1,15 @@
+student:
+  description:
+    name: Valya
+    age: 24
+    height: 1.75
+    married: true
+    hobby:
+      active_sport: [cycling, skiing]
+      board_games: [munchkin, obsession]
+      other: ant_farm
+    address:
+      country: Ukraine
+      state: null
+      city: Odessa
+      postcode: ''

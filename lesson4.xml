@@ -1,0 +1,13 @@
+<student id="1">
+    <description name="Valya" age="24" height="1.75" married="true">
+        <hobby>
+            <active_sport description="summer season">cycling</active_sport>
+            <active_sport description="winter season">skiing</active_sport>
+            <board_games>munchkin</board_games>
+            <board_games>obsession</board_games>
+            <other>ant_farm</other>
+        </hobby>
+        <address country="Ukraine" city="Odessa" postcode="">
+        </address>
+    </description>
+</student>
